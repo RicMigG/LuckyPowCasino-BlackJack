@@ -7,7 +7,9 @@ Using **sockets** and **multi-threading**, the game allows multiple clients, as 
 The name of the game is an allusion to the class' nickname "PowRangers", a pun on PowerRangers and the Java method to calculate a given number elevated to the power of another number. ;)
 
 ## Getting started
-> PowBallShooter is accessible the following way:
+
+> LuckyPowCasino is accessible the following way:
+
 
 1 - Clone the repository and checkout the code and/or build it locally.
 
