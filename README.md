@@ -10,8 +10,11 @@ The name of the game is an allusion to the class' nickname "PowRangers", a pun o
 > PowBallShooter is accessible the following way:
 
 1 - Clone the repository and checkout the code and/or build it locally.
+
 2 - Choose a port number and run the jar file.
+
 3 - Connect to the blackjack table via terminal.
+
 
 ## Screenshots
 
